@@ -1,0 +1,24 @@
+----> falta a tag: <!DOCTYPE html>
+
+<html> ----> não tem término nem "lang"
+
+<head>
+	----> falta a tag: <meta charset="UTF-8">
+	<title> ----> não tem término
+		Minha Página
+</head>
+
+<h1>SuperDev</h2> ----> tags de início e término não coinscidem
+
+<p> ----> não tem térmio
+	Estou aprendendo HTML
+
+<ul>
+	<li>HTML ----> nenhum dos item da lista tem tag de término
+	<li>CSS
+	<li>JavaScript
+</ol> ----> tags de início e termino não coinscidem
+
+<a>Google</a> ----> falta a referência
+
+</body> ----> não tem início

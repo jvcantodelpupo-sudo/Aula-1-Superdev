@@ -1,8 +1,0 @@
-HTML - Sintaxe :
-
-
-<html lang="pt-br">
-	<tagDeAbertura> 
-		// informação 
-	</tagDeAbertura> // tag de fechamento
-</html> 
